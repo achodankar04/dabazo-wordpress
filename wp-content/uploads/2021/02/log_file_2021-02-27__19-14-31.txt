@@ -1,0 +1,109 @@
+
+---Downloaded files---
+The import files for: OnelineLite Default were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/dabazo
+Data file = C:\xampp\htdocs\dabazo/wp-content/uploads/2021/02/demo-content-import-file_2021-02-27__19-14-31.xml
+Widget file = C:\xampp\htdocs\dabazo/wp-content/uploads/2021/02/demo-widgets-import-file_2021-02-27__19-14-31.json
+Customizer file = C:\xampp\htdocs\dabazo/wp-content/uploads/2021/02/demo-customizer-import-file_2021-02-27__19-14-31.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Cloths
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Cloths
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Cloths
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Imported
+Categories - No Title - Imported
+
+Woocommerce widget area : 
+
+woocommerce_products - Products - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+
+Service Widget : 
+
+ThemeHunk : Service Widget - RESPONSIVE DESIGN - Imported
+ThemeHunk : Service Widget - HIGHLY CUSTOMIZABLE - Imported
+ThemeHunk : Service Widget - EASY TO USE - Imported
+ThemeHunk : Service Widget - 24/7 NOTCH ASSISTANCE - Imported
+
+Team Widget : 
+
+ThemeHunk : Team Widget - Karl Blac - Imported
+ThemeHunk : Team Widget - Marin Stan - Imported
+ThemeHunk : Team Widget - David Rasop - Imported
+ThemeHunk : Team Widget - Gabriel labreez - Imported
+
+Testimonial Widget : 
+
+ThemeHunk : Testimonial Widget - Alex - Imported
+ThemeHunk : Testimonial Widget - Josh - Imported
+ThemeHunk : Testimonial Widget - Maria - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
