@@ -547,7 +547,7 @@ if ( ! function_exists( 'big_store_product_list_categories_slider' ) ) {
         'echo'                => 0,
         'exclude'             => '',
         'exclude_tree'        => '',
-        'include'             => esc_html($include_id),
+        'include'             => $include_id,
         'feed'                => '',
         'feed_image'          => '',
         'feed_type'           => '',

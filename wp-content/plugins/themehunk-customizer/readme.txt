@@ -4,7 +4,7 @@ Author URI: : https://www.themehunk.com/
 Tags: themehunk, customizer, oneline-lite,Testimonial,Team, service
 Requires at least: 5.6
 Tested up to: 5.6.2
-Stable tag: 2.3.10
+Stable tag: 2.3.13
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,6 +29,15 @@ Just upload the `themehunk-customizer.zip` to the `/wp-content/plugins/` directo
 == Screenshots ==
 
 == Changelog ==
+
+= 2.3.13 =
+* Themehunk notify style issue fixed.
+
+= 2.3.12 =
+* Big store issue fixed.
+
+= 2.3.11 =
+* Themehunk notify issue fixed.
 
 = 2.3.10 =
 * big store bug fixed.
