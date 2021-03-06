@@ -1,1 +1,1 @@
-# dabazo-wordpress
+# dabazo
